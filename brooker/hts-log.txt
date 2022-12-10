@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 16 Jun 2022 02:19:55 at http://Cryptomining-exchange.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://Cryptomining-exchange.com -O1 "C:\Users\Nicow\OneDrive\Desktop\brooker\brooker" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:19:56	Warning: 	Moved Temporarily for cryptomining-exchange.com/
+02:19:56	Warning: 	File has moved from cryptomining-exchange.com/ to https://cryptomining-exchange.com/landingf
+02:20:34	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://cryptomining-exchange.com/landingf/alert/css/fonts/fontawesome-webfont3e6e3e6e3e6e3e6e.eot?v=4.7.0
+02:21:48	Error: 	"Not Found" (404) at link https://cryptomining-exchange.com/s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js (from https://cryptomining-exchange.com/landingf/)
+02:22:22	Error: 	"Not Found" (404) at link https://cryptomining-exchange.com/login/fp.php (from https://cryptomining-exchange.com/login/login.php)
+02:22:22	Error: 	"Not Found" (404) at link https://cryptomining-exchange.com/htdocs_error/style.css (from https://cryptomining-exchange.com/landingf/translate.yandex.net/website-widget/v1/widget80d680d6.html?widgetId=ytWidget&pageLang=en&widgetTheme=light&autoMode=false)
+02:22:22	Error: 	"Not Found" (404) at link https://cryptomining-exchange.com/htdocs_error/something-lost.png (from https://cryptomining-exchange.com/landingf/translate.yandex.net/website-widget/v1/widget80d680d6.html?widgetId=ytWidget&pageLang=en&widgetTheme=light&autoMode=false)
+02:22:29	Error: 	"Not Found" (404) at link https://cryptomining-exchange.com/www.smartsuppchat.com/loaderd41d.js? (from https://cryptomining-exchange.com/landingf/faq.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 41 seconds : 200 links scanned, 192 files written (7570432 bytes overall) [7522635 bytes received at 46724 bytes/sec], 129236 bytes transferred using HTTP compression in 2 files, ratio 20%, 5.1 requests per connection
+(5 errors, 3 warnings, 0 messages)
